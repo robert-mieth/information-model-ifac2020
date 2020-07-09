@@ -1,0 +1,374 @@
+﻿Category;Supplier;Tool;Extension;File Format;Import;Export
+MCAD;Autodesk;AutoCAD 2021;.3dm;Rhinoceros model;x;
+MCAD;Autodesk;AutoCAD 2021;.3ds;Autodesk 3DS Max ;x;
+MCAD;Autodesk;AutoCAD 2021;.asm;PTC Creo assembly;x;
+MCAD;Autodesk;AutoCAD 2021;.asm;SolidWorks assembly;x;
+MCAD;Autodesk;AutoCAD 2021;.bak;AutoCAD backup;x;x
+MCAD;Autodesk;AutoCAD 2021;.bmp;Bitmap;;x
+MCAD;Autodesk;AutoCAD 2021;.CATPart;CATIA V5 part;x;
+MCAD;Autodesk;AutoCAD 2021;.CATProduct;CATIA V5 product;x;
+MCAD;Autodesk;AutoCAD 2021;.dgn;MicroStation DGN ;x;
+MCAD;Autodesk;AutoCAD 2021;.dlv;CATIA V4 export;x;
+MCAD;Autodesk;AutoCAD 2021;.dlv3;CATIA V4 export;x;
+MCAD;Autodesk;AutoCAD 2021;.dwf;Autodesk Design Web Format;x;x
+MCAD;Autodesk;AutoCAD 2021;.dwfx;Autodesk Design Web Format;x;x
+MCAD;Autodesk;AutoCAD 2021;.dwg;Drawing;x;x
+MCAD;Autodesk;AutoCAD 2021;.dws;AutoCAD drawing standard;x;x
+MCAD;Autodesk;AutoCAD 2021;.dwt;AutoCAD drawing template;x;x
+MCAD;Autodesk;AutoCAD 2021;.dxb;AutoCAD DXB (drawing interchange binary);x;x
+MCAD;Autodesk;AutoCAD 2021;.dxf;Drawing Interchange File Format;x;x
+MCAD;Autodesk;AutoCAD 2021;.dxx;Attribute extract DXF;;x
+MCAD;Autodesk;AutoCAD 2021;.eps;Encapsulated PostScript;;x
+MCAD;Autodesk;AutoCAD 2021;.exp;CATIA V4 export;x;
+MCAD;Autodesk;AutoCAD 2021;.g;PTC Creo granite;x;
+MCAD;Autodesk;AutoCAD 2021;.iam;Autodesk Inventor assembly;x;
+MCAD;Autodesk;AutoCAD 2021;.iges;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Autodesk;AutoCAD 2021;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Autodesk;AutoCAD 2021;.ij;Jupiter Tesselation;x;
+MCAD;Autodesk;AutoCAD 2021;.ipt;Autodesk Inventor part;x;
+MCAD;Autodesk;AutoCAD 2021;.model;CATIA V4 model;x;
+MCAD;Autodesk;AutoCAD 2021;.neu;PTC Creo neutral;x;
+MCAD;Autodesk;AutoCAD 2021;.pdf;Portable Document Format;x;
+MCAD;Autodesk;AutoCAD 2021;.prt;PTC Creo part;x;
+MCAD;Autodesk;AutoCAD 2021;.prt;SolidWorks part;x;
+MCAD;Autodesk;AutoCAD 2021;.sat;Standard ACIS Text;x;x
+MCAD;Autodesk;AutoCAD 2021;.sed;MicroStation DGN seed ;x;
+MCAD;Autodesk;AutoCAD 2021;.session;CATIA V4 session;x;
+MCAD;Autodesk;AutoCAD 2021;.sldasm;SolidWorks assembly;x;
+MCAD;Autodesk;AutoCAD 2021;.sldprt;SolidWorks part;x;
+MCAD;Autodesk;AutoCAD 2021;.ste;STEP;x;
+MCAD;Autodesk;AutoCAD 2021;.step;STEP;x;
+MCAD;Autodesk;AutoCAD 2021;.stl;Solid object stereolithography;;x
+MCAD;Autodesk;AutoCAD 2021;.stp;STEP;x;
+MCAD;Autodesk;AutoCAD 2021;.wmf;Microsoft Windows Metafiles;x;
+MCAD;Autodesk;AutoCAD 2021;.x_b;Parasolid binary;x;
+MCAD;Autodesk;AutoCAD 2021;.x_t;Parasolid text;x;
+MCAD;Dassault Systèmes;CATIA V5;.3dmap;3DMAP (CATIA);x;
+MCAD;Dassault Systèmes;CATIA V5;.3dxml;3D XML;x;x
+MCAD;Dassault Systèmes;CATIA V5;.act;CATIA process library ;x;
+MCAD;Dassault Systèmes;CATIA V5;.asm;CATIA V4 assembly;x;
+MCAD;Dassault Systèmes;CATIA V5;.bdf;Allegro specific ;x;
+MCAD;Dassault Systèmes;CATIA V5;.bmp;Bitmap;x;
+MCAD;Dassault Systèmes;CATIA V5;.brd;Mentor Graphics Format;x;
+MCAD;Dassault Systèmes;CATIA V5;.CAABsk;CATIA CAABsk;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CAAdoc;CATIA CAA;x;x
+MCAD;Dassault Systèmes;CATIA V5;.catalog;CATIA V5 catalog;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATAnalysis;CATIA V5 analysis;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATDrawing;CATIA V5 drawing;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATfct;CATIA Feature Dictionary Business Knowledge Template;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATMaterial;CATIA material library;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATPart;CATIA V5 part;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATProcess;CATIA V5 process ;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATProduct;CATIA V5 product;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATShape;CATIA V5 physical shape;x;x
+MCAD;Dassault Systèmes;CATIA V5;.CATSystem;CATIA V5 functional system management;x;x
+MCAD;Dassault Systèmes;CATIA V5;.cdd;CATIA CADAM ;x;x
+MCAD;Dassault Systèmes;CATIA V5;.cgm;Computer Graphics Metafile  ;x;x
+MCAD;Dassault Systèmes;CATIA V5;.dlv;CATIA V4 export;x;
+MCAD;Dassault Systèmes;CATIA V5;.dlv3;CATIA V4 export;x;
+MCAD;Dassault Systèmes;CATIA V5;.dwg;Drawing;x;x
+MCAD;Dassault Systèmes;CATIA V5;.dxf;Drawing Interchange File Format;x;x
+MCAD;Dassault Systèmes;CATIA V5;.exp;CATIA V4 export;x;
+MCAD;Dassault Systèmes;CATIA V5;.gl;Graphical System for Presentation (GRASP) ;x;
+MCAD;Dassault Systèmes;CATIA V5;.gl2;HPGL related;x;x
+MCAD;Dassault Systèmes;CATIA V5;.hpgl;HP Graphics Language;x;
+MCAD;Dassault Systèmes;CATIA V5;.idf;Intermediate Data Format;x;
+MCAD;Dassault Systèmes;CATIA V5;.ig2;2D IGES;x;x
+MCAD;Dassault Systèmes;CATIA V5;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Dassault Systèmes;CATIA V5;.jpg;JPG;x;x
+MCAD;Dassault Systèmes;CATIA V5;.library;CATIA V4 library;x;
+MCAD;Dassault Systèmes;CATIA V5;.model;CATIA V4 model;x;
+MCAD;Dassault Systèmes;CATIA V5;.pdb;PDB;x;
+MCAD;Dassault Systèmes;CATIA V5;.pdf;Portable Document Format;;x
+MCAD;Dassault Systèmes;CATIA V5;.ps;PostScript;x;x
+MCAD;Dassault Systèmes;CATIA V5;.rgb;SGI format for pixel images;x;
+MCAD;Dassault Systèmes;CATIA V5;.session;CATIA V4 session;x;
+MCAD;Dassault Systèmes;CATIA V5;.ste;STEP;x;x
+MCAD;Dassault Systèmes;CATIA V5;.step;STEP;x;x
+MCAD;Dassault Systèmes;CATIA V5;.stl;Solid object stereolithography;x;
+MCAD;Dassault Systèmes;CATIA V5;.stp;STEP;x;x
+MCAD;Dassault Systèmes;CATIA V5;.svg;SVG;x;x
+MCAD;Dassault Systèmes;CATIA V5;.tdg;TDG STRIM/STYLER files;x;
+MCAD;Dassault Systèmes;CATIA V5;.tif;TIFF ;x;x
+MCAD;Dassault Systèmes;CATIA V5;.wrl;VRML worlds;x;
+MCAD;PTC ;Creo 7.0;.3dm;Rhinoceros model;x;
+MCAD;PTC ;Creo 7.0;.3mf;3D Manufacturing Format;x;x
+MCAD;PTC ;Creo 7.0;.asm;SolidWorks assembly;x;
+MCAD;PTC ;Creo 7.0;.asm;PTC Creo assembly;x;x
+MCAD;PTC ;Creo 7.0;.bdl;Creo Elements/Direct bundle;x;
+MCAD;PTC ;Creo 7.0;.bi;Creo Elements/Direct drawing;x;
+MCAD;PTC ;Creo 7.0;.CATPart;CATIA V5 part;x;x
+MCAD;PTC ;Creo 7.0;.CATProduct;CATIA V5 product;x;x
+MCAD;PTC ;Creo 7.0;.cgm;Computer Graphics Metafile ;x;x
+MCAD;PTC ;Creo 7.0;.cgr;CATIA V5 Graphical Representation;x;x
+MCAD;PTC ;Creo 7.0;.drw;PTC Creo drawing;x;x
+MCAD;PTC ;Creo 7.0;.dwg;Drawing;x;x
+MCAD;PTC ;Creo 7.0;.dxf;Drawing Interchange File Format;x;x
+MCAD;PTC ;Creo 7.0;.eps;Encapsulated PostScript;;x
+MCAD;PTC ;Creo 7.0;.exp;CATIA V4 export;x;
+MCAD;PTC ;Creo 7.0;.iam;Autodesk Inventor assembly;x;
+MCAD;PTC ;Creo 7.0;.ige;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;PTC ;Creo 7.0;.iges;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;PTC ;Creo 7.0;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;PTC ;Creo 7.0;.ipt;Autodesk Inventor part;x;
+MCAD;PTC ;Creo 7.0;.jpg;JPG;;x
+MCAD;PTC ;Creo 7.0;.jt;Jupiter Tesselation;x;x
+MCAD;PTC ;Creo 7.0;.mi;Creo Elements/Direct drawing;x;
+MCAD;PTC ;Creo 7.0;.model;CATIA V4 model;x;
+MCAD;PTC ;Creo 7.0;.neu;PTC Creo neutral;x;x
+MCAD;PTC ;Creo 7.0;.pdf;Portable Document Format;;x
+MCAD;PTC ;Creo 7.0;.pkg;Creo Elements/Direct package;x;
+MCAD;PTC ;Creo 7.0;.prt;Siemens NX part;x;x
+MCAD;PTC ;Creo 7.0;.prt;Siemens NX assembly;x;x
+MCAD;PTC ;Creo 7.0;.prt;SolidWorks part;x;
+MCAD;PTC ;Creo 7.0;.prt;PTC Creo part;x;x
+MCAD;PTC ;Creo 7.0;.ps;PostScript;;x
+MCAD;PTC ;Creo 7.0;.sab;Standard ACIS Binary;x;
+MCAD;PTC ;Creo 7.0;.sat;Standard ACIS Text;x;x
+MCAD;PTC ;Creo 7.0;.sda;Creo Elements/Direct assembly variant;x;
+MCAD;PTC ;Creo 7.0;.sdac;Creo Elements/Direct assembly content;x;
+MCAD;PTC ;Creo 7.0;.sdp;Creo Elements/Direct part;x;
+MCAD;PTC ;Creo 7.0;.sdpc;Creo Elements/Direct part contents;x;
+MCAD;PTC ;Creo 7.0;.session;CATIA V4 session;x;
+MCAD;PTC ;Creo 7.0;.sldasm;SolidWorks assembly;x;
+MCAD;PTC ;Creo 7.0;.sldprt;SolidWorks part;x;
+MCAD;PTC ;Creo 7.0;.tif;TIFF ;;x
+MCAD;PTC ;Creo 7.0;.x_b;Parasolid binary;x;x
+MCAD;PTC ;Creo 7.0;.x_t;Parasolid binary;x;x
+MCAD;Autodesk;Inventor 2021;.3dm;Rhinoceros model;x;
+MCAD;Autodesk;Inventor 2021;.asm;PTC Creo assembly;x;
+MCAD;Autodesk;Inventor 2021;.asm;SolidWorks assembly;x;
+MCAD;Autodesk;Inventor 2021;.CATPart;CATIA V5 part;x;x
+MCAD;Autodesk;Inventor 2021;.CATProduct;CATIA V5 product;x;x
+MCAD;Autodesk;Inventor 2021;.cgr;CATIA V5 Graphical Representation;x;
+MCAD;Autodesk;Inventor 2021;.dlv3;CATIA V4 export;x;
+MCAD;Autodesk;Inventor 2021;.dwg;Drawing;x;x
+MCAD;Autodesk;Inventor 2021;.dxf;Drawing Interchange File Format;x;
+MCAD;Autodesk;Inventor 2021;.exp;CATIA V4 export;x;
+MCAD;Autodesk;Inventor 2021;.g;PTC Creo granite;x;x
+MCAD;Autodesk;Inventor 2021;.iam;Inventor assembly;x;x
+MCAD;Autodesk;Inventor 2021;.idw;Inventor drawing;x;x
+MCAD;Autodesk;Inventor 2021;.ige;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Autodesk;Inventor 2021;.iges;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Autodesk;Inventor 2021;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Autodesk;Inventor 2021;.ipn;Inventor presentation ;x;x
+MCAD;Autodesk;Inventor 2021;.ipt;Autodesk Inventor part;x;x
+MCAD;Autodesk;Inventor 2021;.jt;Jupiter Tesselation;x;x
+MCAD;Autodesk;Inventor 2021;.model;CATIA V4 model;x;
+MCAD;Autodesk;Inventor 2021;.neu;PTC Creo neutral;x;x
+MCAD;Autodesk;Inventor 2021;.obj;Wavefront OBJ;x;x
+MCAD;Autodesk;Inventor 2021;.prt;PTC Creo part;x;
+MCAD;Autodesk;Inventor 2021;.prt;SolidWorks part;x;
+MCAD;Autodesk;Inventor 2021;.prt;Siemens NX part;x;
+MCAD;Autodesk;Inventor 2021;.prt;Siemens NX assembly;x;
+MCAD;Autodesk;Inventor 2021;.sat;Standard ACIS Text;x;x
+MCAD;Autodesk;Inventor 2021;.session;CATIA V4 session;x;
+MCAD;Autodesk;Inventor 2021;.sldasm;SolidWorks assembly;x;
+MCAD;Autodesk;Inventor 2021;.sldprt;SolidWorks part;x;
+MCAD;Autodesk;Inventor 2021;.ste;STEP;x;x
+MCAD;Autodesk;Inventor 2021;.step;STEP;x;x
+MCAD;Autodesk;Inventor 2021;.stl;Solid object stereolithography;x;x
+MCAD;Autodesk;Inventor 2021;.stla;Solid object stereolithography ASCII;x;
+MCAD;Autodesk;Inventor 2021;.stlb;Solid object stereolithography binary;x;
+MCAD;Autodesk;Inventor 2021;.stp;STEP;x;x
+MCAD;Autodesk;Inventor 2021;.wire;Autodesk Alias;x;
+MCAD;Autodesk;Inventor 2021;.x_b;Parasolid binary;x;x
+MCAD;Autodesk;Inventor 2021;.x_t;Parasolid text;x;x
+MCAD;Siemens;Solid Edge 2020;.asm;Solid Edge assembly;x;x
+MCAD;Siemens;Solid Edge 2020;.avi;Audio Video Interleave;;x
+MCAD;Siemens;Solid Edge 2020;.bip;Biped motion;;x
+MCAD;Siemens;Solid Edge 2020;.bkm;Unigraphics bookmark ;;x
+MCAD;Siemens;Solid Edge 2020;.bmp;Bitmap;;x
+MCAD;Siemens;Solid Edge 2020;.CATPart;CATIA V5 part;x;x
+MCAD;Siemens;Solid Edge 2020;.CATProduct;CATIA V5 product;x;
+MCAD;Siemens;Solid Edge 2020;.dft;Solid Edge draft;x;x
+MCAD;Siemens;Solid Edge 2020;.dwg;Drawing;x;x
+MCAD;Siemens;Solid Edge 2020;.dxf;Drawing Interchange File Format;x;x
+MCAD;Siemens;Solid Edge 2020;.iam;Inventor assembly;x;
+MCAD;Siemens;Solid Edge 2020;.iges;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Siemens;Solid Edge 2020;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Siemens;Solid Edge 2020;.ipt ;Autodesk Inventor part;x;
+MCAD;Siemens;Solid Edge 2020;.jpg;JPG;;x
+MCAD;Siemens;Solid Edge 2020;.jt;Jupiter Tesselation;x;x
+MCAD;Siemens;Solid Edge 2020;.model;CATIA V4 model;x;x
+MCAD;Siemens;Solid Edge 2020;.par;Solid Edge part;x;x
+MCAD;Siemens;Solid Edge 2020;.pdf;Portable Document Format;;x
+MCAD;Siemens;Solid Edge 2020;.plmxml;Siemens PLM XML;x;x
+MCAD;Siemens;Solid Edge 2020;.prt;Unigraphics ;x;
+MCAD;Siemens;Solid Edge 2020;.prt;PTC Pro/ENGINEER part;x;
+MCAD;Siemens;Solid Edge 2020;.psm;Solid Edge sheet metal;x;x
+MCAD;Siemens;Solid Edge 2020;.pwd;Solid Edge weldment;x;x
+MCAD;Siemens;Solid Edge 2020;.qsm;Solid Edge Illustration;x;x
+MCAD;Siemens;Solid Edge 2020;.sat;Standard ACIS Text;x;x
+MCAD;Siemens;Solid Edge 2020;.sev;Solid Edge Viewer;x;x
+MCAD;Siemens;Solid Edge 2020;.sldasm;SolidWorks assembly;x;
+MCAD;Siemens;Solid Edge 2020;.sldprt;SolidWorks part;x;
+MCAD;Siemens;Solid Edge 2020;.step;STEP;x;x
+MCAD;Siemens;Solid Edge 2020;.stl;Solid object stereolithography;x;x
+MCAD;Siemens;Solid Edge 2020;.stp;STEP;x;x
+MCAD;Siemens;Solid Edge 2020;.tif;TIFF ;;x
+MCAD;Siemens;Solid Edge 2020;.u3d;Universal 3D;;x
+MCAD;Siemens;Solid Edge 2020;.x_b;Parasolid binary;x;x
+MCAD;Siemens;Solid Edge 2020;.x_t;Parasolid text;x;x
+MCAD;Siemens;Solid Edge 2020;.xgl;XGL (XML based);;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.3dm;Rhinoceros model;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.3dm;Rhinoceros model;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.3ds;Autodesk 3DS Max;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.3dxml;3D XML;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.asm;PTC Pro/ENGINEER assembly;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.asm;Solid Edge assembly;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.CATPart;CATIA V5 part;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.CATProduct ;CATIA V5 product;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.cgr;CATIA V5 Graphical Representation;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.ckd;CADKEY multibody part;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.dae;COLLADA;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.dwg;Drawing;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.dxf;Drawing Interchange File Format;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.exp;CATIA V4 export;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.fbx;Autodesk FBX;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.iam;Inventor assembly;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.igs;Initial Graphics Exchange Specification (IGES);x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.ipt;Autodesk Inventor part;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.jt;Jupiter Tesselation;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.model;CATIA V4 model;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.par;Solid Edge part;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.pdf;Portable Document Format;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.prt;CADKEY part/assembly;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.prt;PTC Pro/ENGINEER part;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.sab;Standard ACIS Binary;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.sat;Standard ACIS Text;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.session;CATIA V4 session;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.sldasm;SolidWorks assembly;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.slddrw;SolidWorks drawing;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.sldprt;SolidWorks part;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.ste;STEP;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.step;STEP;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.stl;Solid object stereolithography;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.stp;STEP;x;x
+MCAD;Dassault Systèmes;SolidWorks 2020;.wire;Autodesk Alias;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.x_b;Parasolid binary;x;
+MCAD;Dassault Systèmes;SolidWorks 2020;.x_t;Parasolid text;x;
+ECAD;Autodesk;Fusion 360 Electronics;.brd;Layout;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.sch;Schematic;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.lbr;Library;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.dbl;Design Block file;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.ulp;User Language Program;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.scr;Script file;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.txt;Text file (also other suffixes);x;x
+ECAD;Autodesk;Fusion 360 Electronics;.dru;Design Rules;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.ctl;Control parameter for the Autorouter;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.pro;Autorouter protocol file;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.job;Autorouter job;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.b$$;Backup file of .brd afer finishing the Autorouter;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.mdl;SPICE model;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.cam;CAM Processor job;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.b#x;Backup file of BRD (x = 1..9);x;x
+ECAD;Autodesk;Fusion 360 Electronics;.s#x;Backup file of SCH (x = 1..9);x;x
+ECAD;Autodesk;Fusion 360 Electronics;.l#x;Backup file of LBR (x = 1..9);x;x
+ECAD;Autodesk;Fusion 360 Electronics;.b##;Automatic backup file of BRD;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.s##;Automatic backup file of SCH;x;x
+ECAD;Autodesk;Fusion 360 Electronics;.l##;Automatic backup file of LBR;x;x
+ECAD;EPLAN;EPLAN ;.elk;Standard EPLAN project that you can open and edit. If you work in the multi-user mode, such an opened project can be edited by several users simultaneously.;x;x
+ECAD;EPLAN;EPLAN ;.elp;Zipped EPLAN project;x;x
+ECAD;EPLAN;EPLAN ;.els;Filed-off EPLAN project;x;x
+ECAD;EPLAN;EPLAN ;.zw1;EPLAN data backup: Project;x;x
+ECAD;EPLAN;EPLAN ;.elx;Filed-off, zipped EPLAN project;x;x
+ECAD;EPLAN;EPLAN ;.ela;Archived EPLAN project;x;x
+ECAD;EPLAN;EPLAN ;.elr;Completed EPLAN project;x;x
+ECAD;EPLAN;EPLAN ;REV.elr;EPLAN reference project;x;x
+ECAD;EPLAN;EPLAN ;.ell;EPLAN revision project;x;x
+ECAD;Zuken;E3.series;.e3s;E3.series schematic;x;x
+ECAD;Zuken;E3.series;.e3p;E3.series part ;x;x
+ECAD;Zuken;E3.series;.e3v;E3.series viewer;x;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.project;CODESYS project;x;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.projectarchive;CODESYS project archive;x;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.library;CODESYS library;;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.compiled-library;CODESYS compiled library;;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.export;CODESYS XML;x;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.xml;PLCopen XML ;x;x
+IDE;3S-Smart Software Solutions GmbH;CODESYS;.csv;CSV;x;x
+IDE;Beckhoff;TwinCAT 3;.tsproj;TwinCAT project file;x;x
+IDE;Beckhoff;TwinCAT 3;.plcproj;TwinCAT PLC project file;x;x
+IDE;Beckhoff;TwinCAT 3;.tmc;TwinCAT module class (description file for a TcCom module);x;x
+IDE;Beckhoff;TwinCAT 3;.tpy;This file serves only for compatibility with programs from other vendors.;x;x
+IDE;Beckhoff;TwinCAT 3;.xti;In case of multiple file support, parts of the TwinCAT project file are stored with this extension.;x;x
+IDE;Beckhoff;TwinCAT 3;.TcTTO;PLC task object;x;x
+IDE;Beckhoff;TwinCAT 3;.TcPOU;PLC program organizational unit (POU);x;x
+IDE;Beckhoff;TwinCAT 3;.TcDUT;PLC data type;x;x
+IDE;Beckhoff;TwinCAT 3;.TcGVL;PLC global variable list;x;x
+IDE;Beckhoff;TwinCAT 3;.TcVis;PLC visualization;x;x
+IDE;Beckhoff;TwinCAT 3;.TcVMO;PLC visualization manager;x;x
+IDE;Beckhoff;TwinCAT 3;.TcGTLO;PLC global texts list;x;x
+IDE;Beckhoff;TwinCAT 3;.sln;solution file from Visual Studio (VS);x;x
+IDE;Beckhoff;TwinCAT 3;.suo;user options file for the VS project;x;x
+IDE;Beckhoff;TwinCAT 3;.xml;PLCopen XML;x;x
+IDE;Beckhoff;TwinCAT 3;.zip;ZIP;x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.project;EcoStruxure Machine Expert project;x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.library;EcoStruxure Machine Expert library;x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.projectarchive;EcoStruxure Machine Expert project archive;x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.prj;EcoStruxure Machine Expert project archive (source);x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.compileinfo;Download Information Files;x;x
+IDE;Schneider;EcoStruxure Machine Expert (former SoMachine);.psx;ATV32 configuration file;x;x
+IDE;Rockwell;Studio 5000;.l5x;Logix Designer XML file;x;x
+IDE;Rockwell;Studio 5000;.l5k;Project file;x;x
+IDE;Rockwell;Studio 5000;.acd;Logix Designer Project file;x;x
+IDE;Rockwell;Studio 5000;.csv;CSV;x;x
+IDE;Rockwell;Studio 5000;.txt;Text file;x;x
+IDE;Microsoft;VS Code;.bat;Batch;x;x
+IDE;Microsoft;VS Code;.c;C;x;x
+IDE;Microsoft;VS Code;.cpp;C++;x;x
+IDE;Microsoft;VS Code;.cs;C#;x;x
+IDE;Microsoft;VS Code;.css;CSS;x;x
+IDE;Microsoft;VS Code;.scss;SCSS;x;x
+IDE;Microsoft;VS Code;.less;Less;x;x
+IDE;Microsoft;VS Code;.html;HTML;x;x
+IDE;Microsoft;VS Code;.java;Java;x;x
+IDE;Microsoft;VS Code;.js;JavaScript;x;x
+IDE;Microsoft;VS Code;.json;JSON;x;x
+IDE;Microsoft;VS Code;.md;Markdown;x;x
+IDE;Microsoft;VS Code;.php;PHP;x;x
+IDE;Microsoft;VS Code;.ps1;PowerShell;x;x
+IDE;Microsoft;VS Code;.py;Python;x;x
+IDE;Microsoft;VS Code;.tsql;T-SQL;x;x
+IDE;Microsoft;VS Code;.ts;TypeScript;x;x
+IDE;Microsoft;VS Code;.ino;Arduino sketch;x;x
+IDE;Eclipse Foundation;Eclipse;.java;Java;x;x
+IDE;Eclipse Foundation;Eclipse;.js;JavaScript;x;x
+IDE;Eclipse Foundation;Eclipse;.c;C;x;x
+IDE;Eclipse Foundation;Eclipse;.cpp;C++;x;x
+IDE;Eclipse Foundation;Eclipse;.cs;C#;x;x
+IDE;Eclipse Foundation;Eclipse;.css;CSS;x;x
+IDE;Eclipse Foundation;Eclipse;.f;Fortran;x;x
+IDE;Eclipse Foundation;Eclipse;.html;HTML;x;x
+IDE;Eclipse Foundation;Eclipse;.md;Markdown;x;x
+IDE;Eclipse Foundation;Eclipse;.pl;Perl;x;x
+IDE;Eclipse Foundation;Eclipse;.php;PHP;x;x
+IDE;Eclipse Foundation;Eclipse;.py;Python;x;x
+IDE;Eclipse Foundation;Eclipse;.rs;Rust;x;x
+IDE;Eclipse Foundation;Eclipse;.xml;XML;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.java;Java;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.js;JavaScript;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.php;PHP;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.c;C;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.cpp;C++;x;x
+IDE;Apache Software Foundation, Oracle Corporation;NetBeans;.html;HTML;x;x
+IDE;Arduino;Arduino IDE;.ino;Arduino sketch;x;x
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.mdxml;MagicDraw File Format;x;x
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.mdzip;Packed MagicDraw File Format;x;x
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.xml;XML;;
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.xml.zip;XML (zipped);;
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.slx;Simulink model;x;x
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.mdl;Simulink model (legacy);x;
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.fmu;Functional Mock-up Interface;x;
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.mo;Modelica ;;x
+Modeling;No Magic;Magic Draw 19.0 LTR SP3;.csv;CSV;;x
+Modeling;Sparx Systems;Enterprise Architect 15.1;.eap;file based repository;x;x
+Modeling;Sparx Systems;Enterprise Architect 15.1;.eapx;file based repository;x;x
+Modeling;Sparx Systems;Enterprise Architect 15.1;.feap;file based repository;x;x
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.vpp;Visual Paradigm project;x;x
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.xml;BPMN;x;x
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.xml;Open Group ArchiMate Model Exchange File Format;x;x
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.bpm;BPM Bizagi;x;
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.xlsx;Excel Spreadsheet XML;x;
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.vdx;Visio drawing (XML);x;
+Modeling;Visual Paradigm International Ltd.;Visual Paradigm;.vsdx;Visio VSDX (XML);x;
