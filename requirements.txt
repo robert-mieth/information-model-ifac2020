@@ -1,2 +1,2 @@
-Owlready2==0.14
-rdflib==4.2.2
+Owlready2==0.24
+rdflib==5.0.0

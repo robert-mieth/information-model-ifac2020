@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """module for loading an ontology, running a SPARQL query, and returning the results as a list"""
 
-from owlready2 import *
+from owlready2 import get_ontology
+from owlready2 import default_world
 import rdflib
 import types
 

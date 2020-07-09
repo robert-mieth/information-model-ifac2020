@@ -1,22 +1,26 @@
-# information-model-ifac2020
-Source files for the paper "A Knowledge Based System for Managing Heterogeneous Sources of Engineering Information" submitted to the IFAC World Congress 2020. The paper is authored by Felix Ocker, Matthias Seitz, Christiaan J. J. Paredis, and Birgit Vogel-Heuser.
+# evolution-of-information-model-ifac2020
+Source files for the bachelor thesis "Evolution of an Information Model to Manage Dependencies in Interdisciplinary Engineering" authored by Robert Mieth. Based on "A Knowledge Based System for Managing Heterogeneous Sources of Engineering Information" submitted to the IFAC World Congress 2020 and forked from https://github.com/felixocker/information-model-ifac2020.
 
 # Contents
 ## knowledge graph creation (OWL)
-* mbse.py - module that contains generic and thus reusable notions
-* xppu.py - module that contains classes and instances relevant for the feasibility study
-* integration.py - integrates mbse.py and xppu.py
+* filecrawler.py - module that crawls a given path to extract files and their metadata
+* informationmodel.py - module that contains classes and instances relevant for the feasibility study
+* instancemodel.py - module that generates the populated information model
+* integrationpopulated.py - integrates informationmodel.py and instancemodel.py
+
+* manualmod.py - module to manually modify the populated information model
+* modifyrelation.py - prototypical function to modify relations within the populated information model on the basis of string input
 ## queries (SPARQL)
 * consistency.py - checks consistency of the knowledge graph created
 * findinfo.py - find information based on the type and system described
 * duplicateinfo.py - identify duplicate information
 * formatcompatibility.py - identify inaccessible information
 * changepropagation.py - identify actors affected by a change
-* listclasses.py - query for listing all classes of a knowledge graph
-* listinstances.py - query for listing all instances of a certain class
+* listelements.py - query for listing all classes or instances of a knowledge graph
 ## auxiliary files
+* preprocess.py - module that preprocesses strings for URI/IRI conformity
+* importcsv.py - module that imports mappings from .csv files
 * executequery.py - module for executing SPARQL queries
-* preprocess_query_results.py - remove prefixes of query results
 * simplegui.py - the name says it all
 
 # Requirements
@@ -26,6 +30,5 @@ Python 3.7+ is recommended.
 GPL v3.0
 
 # Contact
-[felix.ocker@tum.de](mailto:felix.ocker@tum.de)
 [robert.mieth@tum.de](mailto:robert.mieth@tum.de)
-
+[felix.ocker@tum.de](mailto:felix.ocker@tum.de)

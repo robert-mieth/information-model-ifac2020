@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """SPARQL query for finding stakeholders that should be notified of changes"""
 
 import executequery as xq
@@ -7,31 +8,31 @@ import preprocess_query_results as ppqr
 ONTOFILE = "file://./xppu-information-model.owl"
 
 # parameters
-INFOCONC_CHANGED = ":ic_PPU_crane_behavior_UMLact_PapyrusUML"
+ONTOFILE = "populated-information-model.owl"
+INFOCONC_CHANGED = "CraneDrawing"
 
 def confquery(infoconc_changed):
+    """configures SPARQL query to retrieve infotype contained in infoconc_changed and subscribed actors """
     query = """PREFIX : <http://david.org/informationmodel.owl#>
-            SELECT DISTINCT ?info ?actor WHERE {
-                ?actor a/rdfs:subClassOf* :actor . 
-                ?info a/rdfs:subClassOf* :information . 
-                """ + infoconc_changed + """ :concretizes ?info . 
-                ?infoconc :concretizes ?info . 
-                ?actor :subscribes ?infoconc . 
+            SELECT DISTINCT ?info ?role ?actor WHERE {
+                ?info rdf:type/rdfs:subClassOf* :information .
+                ?actor rdf:type/rdfs:subClassOf* :actor .
+                ?actor :subscribes :""" + infoconc_changed + """ .
+                :""" + infoconc_changed + """ :stored_as ?doc_format .
+                ?doc_format :can_format ?info .
+                ?doc_format :has_role ?role .
             }"""
     return query
 
-def returnresults(li):
-    text = "suggested notifications:"
-    if not li:
-        text = "no notifications required"
-    else:
-        for i in li:
-            newline = "\nnotify "+str(i[1])+" that "+str(i[0])+" has been changed"
-            text += newline
-    return text
+def returnresults(infoconc_changed=INFOCONC_CHANGED):
+    li = xq.executequery(ONTOFILE, confquery(infoconc_changed))
+    for i in li:
+        print("notify",i[2],"that",i[0],"with role",i[1],"has been changed")
 
-def main(infoconc):
-    return returnresults(xq.executequery(ONTOFILE, confquery(infoconc)))
+
+def main(infoconc_changed):
+    returnresults()
+
 
 if __name__ == "__main__":
-    print(main(INFOCONC_CHANGED))
+    main(INFOCONC_CHANGED)
