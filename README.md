@@ -1,5 +1,6 @@
 # evolution-of-information-model-ifac2020
-Source files for the bachelor thesis "Evolution of an Information Model to Manage Dependencies in Interdisciplinary Engineering" authored by Robert Mieth. Based on "A Knowledge Based System for Managing Heterogeneous Sources of Engineering Information" submitted to the IFAC World Congress 2020 and forked from https://github.com/felixocker/information-model-ifac2020.
+Source files for the bachelor thesis "Evolution of an Information Model to Manage Dependencies in Interdisciplinary Engineering" authored by Robert Mieth.
+Based on "A Knowledge Based System for Managing Heterogeneous Sources of Engineering Information" by Felix Ocker, Birgit Vogel-Heuser, Matthias Seitz, Christiaan J. J. Paredis. This paper has been submitted to the IFAC World Congress 2020. Forked from https://github.com/felixocker/information-model-ifac2020.
 
 # Contents
 ## knowledge graph creation (OWL)
