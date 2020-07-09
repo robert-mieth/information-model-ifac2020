@@ -3,7 +3,6 @@
 """SPARQL query for finding stakeholders that should be notified of changes"""
 
 import executequery as xq
-import preprocess_query_results as ppqr
 
 ONTOFILE = "file://./xppu-information-model.owl"
 
